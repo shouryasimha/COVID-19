@@ -8,3 +8,4 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 # Link to the Tracker : https://covid-19-predictor-app.herokuapp.com/
 
 
+# Description : Used Multiple Data sources and  multivariate-timeseries analysis to predict the level of virus spread at state and county level in US and deployed it Using Streamlit and Also using AWS SAGEMAKER . The current version will be of Streamlit to make the project completely open source.
